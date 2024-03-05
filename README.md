@@ -10,17 +10,17 @@ Welcome to the Python Mini Projects repository! This collection of small Python 
 ## 1. Rock, Paper, Scissors Game
 - A simple implementation of the classic rock, paper, scissors game.
 - Test your luck and strategic thinking against the computer.
-- [Learn more](./rock_paper_scissors/README.md)
+- [Learn more](Python/RockPaperScissors/Game.py)
 
 ## 2. Password Generator
 - Generate strong and secure passwords with customizable options.
 - Choose the length and include or exclude certain characters.
-- [Learn more](./password_generator/README.md)
+- [Learn more](Python/PasswordGenerator/Code.py)
 
 ## 3. BMI Calculator
 - Calculate your Body Mass Index (BMI) easily.
 - Input your height and weight to get instant BMI results and interpretation.
-- [Learn more](./bmi_calculator/README.md)
+- [Learn more](Python/BMIcalculator/Script.py)
 
 ## How to Run the Projects
 Each project has its own readme file with specific instructions on how to run the Python code. Follow the steps outlined in the respective project's readme for a seamless experience.
