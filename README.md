@@ -4,8 +4,8 @@ Welcome to the Python Mini Projects repository! This collection of small Python 
 
 ## Table of Contents
 1. [Rock, Paper, Scissors Game](./rock_paper_scissors/README.md)
-2. [Password Generator](Python/PasswordGenerator/README(2).md)
-3. [BMI Calculator](Python/BMIcalculator/README(3).md)
+2. [Password Generator](Python/PasswordGenerator/README (2).md)
+3. [BMI Calculator](Python/BMIcalculator/README (3).md)
 
 ## 1. Rock, Paper, Scissors Game
 - A simple implementation of the classic rock, paper, scissors game.
